@@ -58,6 +58,7 @@ function getClassByRate(vote) {
         return "orange";
     } else {
         return "red";
+        leta =5;
     }
 }
 
